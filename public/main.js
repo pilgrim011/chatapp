@@ -280,6 +280,3 @@ $(function() {
   });
 
 });
-.centar{
- text-align: center;
-}
